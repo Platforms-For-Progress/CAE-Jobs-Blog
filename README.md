@@ -1,4 +1,4 @@
-# CAE-Social-Media # Career Advancement Exchange
+# CAE-Jobs-Blog # Career Advancement Exchange
 
 ![Career Advancement Exchange](logo.png)
 
