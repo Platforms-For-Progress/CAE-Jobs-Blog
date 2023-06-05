@@ -25,13 +25,13 @@ To run the Career Advancement Exchange website locally, make sure you have [Node
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/Platforms-For-Progress/CAE-Social-Media.git
+   git clone https://github.com/Platforms-For-Progress/CAE-Jobs-Blog.git
    ```
 
 2. Navigate to the project's directory:
 
    ```bash
-   cd CAE-Social-Media
+   cd CAE-Jobs-Blog
    ```
 
 3. Install the dependencies by running:
